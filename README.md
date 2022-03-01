@@ -8,6 +8,6 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LucasVeiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-veiga-498219156/)](https://www.linkedin.com/in/lucas-veiga-498219156/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LucasVeiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasveiga19)](https://www.linkedin.com/in/lucas-veiga-498219156/)
   [![Gmail Badge](https://img.shields.io/badge/-lucas.veiga@laveiga.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.veiga@laveiga.com.br)](mailto:lucas.veiga@laveiga.com.br)
 </div>
