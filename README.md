@@ -2,7 +2,7 @@
 
 * 📖 Cursando Análise e Desenvolvimento de Sistemas na [Universidade de Fortaleza - UNIFOR](https://www.unifor.br/). 
 
-* 🧑🏻‍💻 Entusiasta da tecnologia, designer e um amante do código aberto. 
+* 🧑🏻‍💻 Entusiasta da tecnologia, amo conhecer novas tecnologias e está interado nesse mundo. 
 
 * 💡 Sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas.
 
