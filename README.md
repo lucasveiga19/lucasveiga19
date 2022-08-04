@@ -12,7 +12,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-lucas.veiga@laveiga.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.veiga@laveiga.com.br)](mailto:lucas.veiga@laveiga.com.br)
 </div>
 
-## 📈 Stats
+## 📈 Estatísticas
 
 <div align="center">
   
