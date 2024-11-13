@@ -1,6 +1,6 @@
 ## Prazer! Me chamo Lucas Veiga.
 
-* 📖 Cursando Análise e Desenvolvimento de Sistemas na [Universidade de Fortaleza - UNIFOR](https://www.unifor.br/). 
+* 📖 Graduado em Análise e Desenvolvimento de Sistemas na [Universidade de Fortaleza - UNIFOR](https://www.unifor.br/). 
 
 * 🧑🏻‍💻 Entusiasta da tecnologia, amo conhecer novas tecnologias e está interado nesse mundo. 
 
