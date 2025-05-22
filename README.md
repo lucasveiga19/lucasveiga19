@@ -1,32 +1,50 @@
-## Prazer! Me chamo Lucas Veiga.
+<div align="center">
 
-* 📖 Graduado em Análise e Desenvolvimento de Sistemas na [Universidade de Fortaleza - UNIFOR](https://www.unifor.br/). 
+# 👋 Hi there! I'm Lucas Veiga
 
-* 🧑🏻‍💻 Entusiasta da tecnologia, amo conhecer novas tecnologias e está interado nesse mundo. 
+### Fullstack Developer | Systems Analyst | Tech Enthusiast
 
-* 💡 Sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas.
+</div>
+
+---
+
+## 💡 About Me
+
+I hold a degree in Systems Analysis and Development from [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br/). I work as a Systems Analyst, focusing on backend development with Java, API integrations, and enterprise system support.
+
+I’ve worked on both public and private sector projects using technologies like Java, Spring Boot, Vue.js, SQL Server, and Oracle.
+
+I enjoy collaborating with diverse teams, building efficient solutions, and exploring tools that improve software development. Always open to learning and contributing to innovative and disruptive projects.
+
+---
+
+## 📫 Contact Me
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LucasVeiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasveiga19)](https://www.linkedin.com/in/lucasveiga19)
-  [![Gmail Badge](https://img.shields.io/badge/-lucas.veiga@laveiga.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.veiga@laveiga.com.br)](mailto:lucas.veiga@laveiga.com.br)
-  
+[![Linkedin Badge](https://img.shields.io/badge/-LucasVeiga-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasveiga19)
+[![Gmail Badge](https://img.shields.io/badge/-lucas.veiga@laveiga.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.veiga@laveiga.com.br)
+
 </div>
 
-## 📈 Estatísticas
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   
-  <a href="https://github.com/lucasveiga19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasveiga19&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasveiga19&layout=compact&langs_count=7&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasveiga19&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasveiga19&layout=compact&langs_count=7&theme=tokyonight)
+
 </div>
 
-## ⚡ Tech Stack
+---
 
-###
+## ⚙️ Tech Stack
 
-<div align="left">
+<div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
@@ -42,4 +60,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+</div>
+
+---
+
+<div align="center">
+
+> “Success is the result of passionate teams.” 🚀  
+> Thanks for visiting my profile! Feel free to explore and connect.
+
 </div>
