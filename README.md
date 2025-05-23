@@ -22,8 +22,8 @@ I enjoy collaborating with diverse teams, building efficient solutions, and expl
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-LucasVeiga-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasveiga19)
-[![Gmail Badge](https://img.shields.io/badge/-lucas.veiga@laveiga.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.veiga@laveiga.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasveiga19)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.veiga@laveiga.com.br)
 
 </div>
 
@@ -34,7 +34,6 @@ I enjoy collaborating with diverse teams, building efficient solutions, and expl
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasveiga19&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasveiga19&layout=compact&langs_count=7&theme=tokyonight)
 
 </div>
